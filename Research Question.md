@@ -1,4 +1,4 @@
-### 2. Email Importance & Public Interest Prediction
+### Email Importance & Public Interest Prediction
 **Question**: What linguistic and metadata features predict high community engagement (star count) with controversial documents?
 
 **Motivation**: Understanding what makes documents newsworthy or publicly important could help prioritize investigative resources and improve information retrieval systems for leaked/released documents.
